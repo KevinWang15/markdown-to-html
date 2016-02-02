@@ -1,0 +1,19 @@
+{
+  "name": "markdown-to-html",
+  "version": "1.0.0",
+  "description": "Markdown to html converter based on showdownjs",
+  "main": "",
+  "repository": "https://github.com/KevinWang15/markdown-to-html",
+  "license": "MIT",
+  "bin": {
+    "md2h": "md2h.js"
+  },
+  "author": "",
+  "dependencies": {
+    "process": "^0.11.2",
+    "showdown": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
